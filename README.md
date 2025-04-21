@@ -1,0 +1,1 @@
+•	3D Rubik’s Cube Renderer: Designed and implemented a fully interactive 3D Rubik’s Cube using OpenGL and C++. Users can rotate faces, scramble the cube, and reset the puzzle. Focused on 3D transformations, rendering pipeline, and event handling.  Technologies: C++, OpenGL, Computer Graphics.
